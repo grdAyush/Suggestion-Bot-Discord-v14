@@ -1,24 +1,10 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayush Dev&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/> </a> 
-</p>
+
 
 <p align="center"> 
   <a href="https://discord.gg/P6DNKS96TE" target="_blank"> <img src="https://discordapp.com/api/guilds/975757167950962768/widget.png?style=banner2"/> </a> 
 </p>
 
 
-## 📑 Feature
-- [x] Mongo DB Connection
-- [x] Anti Role Create/Delete/Update
-- [x] Anti Bot Add
-- [x] Anti Channel Create/Delete/Update
-- [x] Anti Webhook Create/Delete/Update
-- [x] Anti Kick
-- [x] Anti Ban
-- [x] Recovery of Channels And Roles
-- [x] Slash Command (Base, Group, Sub)
-- [x] Whitelist With Categories
-- [x] Owner Level Whitelist
 
 <details><summary>📎 Requirements [CLICK ME]</summary>
 <p>
@@ -69,37 +55,6 @@ After installation or finishes all you can use `npm run start` to run the bot
 
 </p>
 </details>
-
-<details><summary>🔩 Commands [CLICK ME]</summary>
-<p>
-
-## 🔩 Commands
-
-> Note: The default prefix is '/'
-
-👮‍♂️ **Antinuke**
-- Enable (/antinuke enable [category])
-- Disable (/antinuke disable [category])
-- LogChannel (/antinuke channel [channel])
-- Settings (/antinuke settings)
-- Whitelist Add (/antinuke whitelist add [user] [category])
-- Whitelist Remove (/antinuke whitelist remove [user] [category])
-- Whitelist Owner (/antinuke whitelist owner [user] [choice(add/remove)])
-- Whitelist Show (/antinuke whitelist show [category])
-
-💬 **Utility**
-- Ping (/ping)
-- Help (/help)
-
-
-💎 **Premium Commands!**
-- Generate (/premium generate [plan] [amount]) // (OWNER ONLY)
-- Redeem (/redeem [code])
-- Remove (/premium remove [mention]) // (OWNER ONLY)
-
-</p>
-</details>
-
 
 
 ## ❣ Credits
