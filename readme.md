@@ -56,6 +56,19 @@ After installation or finishes all you can use `npm run start` to run the bot
 </p>
 </details>
 
+<details><summary>📄 ScreenShots [CLICK ME]</summary>
+<p>
+
+## 📄 Screenshots
+
+https://cdn.discordapp.com/attachments/1089170594207113296/1124910446701445251/Screenshot_from_2023-07-02_09-20-36.png
+
+
+https://cdn.discordapp.com/attachments/1089170594207113296/1124910447011835985/Screenshot_from_2023-07-02_09-21-07.png
+</p>
+</details>
+
+
 
 ## ❣ Credits
 Created By [Ayush](https://github.com/Ayushselfcoder)
